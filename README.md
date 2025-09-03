@@ -1,1 +1,2 @@
 # odin-recipes
+so like i have used git commands to create a new repo and clone it onto the pc. what's left is to stage it [git add .], then check for status [git status] before finally commiting [git commit].
